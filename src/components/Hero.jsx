@@ -19,7 +19,7 @@ function Hero() {
             className="md:text-4xl sm:text-3xl text-xl font-bold md:pl-4 pl-2 "
             strings={["BTB", "BTC", "SASS"]} 
             typeSpeed={120}
-            backSpeed={140}
+            backSpeed={140} 
             loop
           />
         </div>
