@@ -16,8 +16,8 @@ function Hero() {
             Fast, flexible financial for
           </p>
           <Typed
-            className="md:text-4xl sm:text-3xl text-xl font-bold md:pl-4 pl-2"
-            strings={["BTB", "BTC", "SASS"]}
+            className="md:text-4xl sm:text-3xl text-xl font-bold md:pl-4 pl-2 "
+            strings={["BTB", "BTC", "SASS"]} 
             typeSpeed={120}
             backSpeed={140}
             loop
